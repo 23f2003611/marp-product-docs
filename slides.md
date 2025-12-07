@@ -18,8 +18,9 @@ math: katex
 ---
 
 <!--
-backgroundImage: url('wmremove-transformed.jpeg')
+backgroundImage: url('./images/wmremove-transformed.jpeg')
 backgroundSize: cover
+backgroundPosition: center
 -->
 
 ## Architecture Overview
