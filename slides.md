@@ -17,11 +17,7 @@ math: katex
 
 ---
 
-<!--
-backgroundImage: url('https://raw.githubusercontent.com/23f2003611/marp-product-docs/main/images/wmremove-transformed.jpeg')
-backgroundSize: cover
-backgroundPosition: center
--->
+![bg cover](https://raw.githubusercontent.com/23f2003611/marp-product-docs/main/images/wmremove-transformed.jpeg)
 
 ## Architecture Overview
 
