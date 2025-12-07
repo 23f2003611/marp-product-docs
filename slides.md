@@ -10,6 +10,8 @@ math: katex
 
 ---
 
+<!-- _class: lead -->
+
 ## Overview
 - Version controlled docs
 - Easy format conversion
