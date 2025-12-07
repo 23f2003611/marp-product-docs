@@ -18,7 +18,7 @@ math: katex
 ---
 
 <!--
-backgroundImage: url('https://images.unsplash.com/photo-1526378722443-4f3b5a5f5b3f')
+backgroundImage: url('wmremove-transformed.jpeg')
 backgroundSize: cover
 -->
 
